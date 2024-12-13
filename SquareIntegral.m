@@ -1,6 +1,4 @@
 function[Z] = SquareIntegral(f, n, m)
-% Projekt 1, Zadanie 36
-% Stanisław Zaprzalski, 327415
 % 
 % Funkcja oblicza wartość całki podwójnej funkcji f(x, y) na kwadracie
 % [-1, 1] x [-1, 1] za pomocą złożonej dwupunktowej kwadratury 

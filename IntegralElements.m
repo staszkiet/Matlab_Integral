@@ -1,6 +1,4 @@
 function[y] = IntegralElements(x)
-% Projekt 1, Zadanie 36
-% Stanisław Zaprzalski, 327415
 % 
 % Funkcja oblicza węzły dwupunktowej kwadratury Gaussa-Legendra dla równych
 % podprzedziałów przedziału [-1, 1] reprezentowanych przez wektor x

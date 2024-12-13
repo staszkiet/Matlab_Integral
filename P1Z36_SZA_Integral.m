@@ -1,6 +1,4 @@
 function [Y] = P1Z36_SZA_Integral(f, n, m)
-% Projekt 1, Zadanie 36
-% Stanisław Zaprzalski, 327415
 % 
 % Obliczanie całek funckji ciągłej na obszarze
 % D = {(x, y) ∈ R^2 : x^2 + y^2 <= 1} 
